@@ -1,0 +1,2 @@
+# Bookstore-App
+Bookstore App is a desktop application developed in Python using Tkinter library. It contains information like the title of the book, author of the book, the year in which book published, and the unique ISBN number of the book. The application allows the user to view all books, add new books, update an existing book, and delete an existing book. The database of the app is developed in SQLite3.
